@@ -194,8 +194,9 @@ if __name__ == '__main__' :
 
 ~~~
 ### OUTPUT SCREEN:
-![image](https://github.com/charansai0/MINI-PROJECT/assets/94296221/d3f526dc-d30c-4391-8f23-b55ca80731f8)
 
+
+<img width="374" alt="P3" src="https://github.com/charansai0/MINI-PROJECT/assets/94296221/ef48e24a-2c09-409a-8732-790a422f7626">
 
 
 
