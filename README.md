@@ -6,7 +6,7 @@ Steganography is the art and science of invisible communication. This is an acco
 ### EXISTING SYSTEM
 In special domain, the hiding process such as least significant bit replacement is done LSB method has intense effect on the statistical information of image like histogram attackers could be aware of a hidden communication.
 
-### PROPOSED SYSTEM
+### PROPOSED SYSTEM 
 This system overcomes the  demerits  of using single  level of hiding. That is either using steganography.
 
 •	In our system we are not following the regular encryption, decryption techniques.
@@ -196,7 +196,7 @@ if __name__ == '__main__' :
 ### OUTPUT SCREEN:
 
 
-<img width="374" alt="P3" src="https://github.com/charansai0/MINI-PROJECT/assets/94296221/ef48e24a-2c09-409a-8732-790a422f7626">
+<img width="470" alt="P3 " src="https://github.com/charansai0/MINI-PROJECT/assets/94296221/5023f2d2-b41b-4861-b4c2-6b2c24126507">
 
 
 
