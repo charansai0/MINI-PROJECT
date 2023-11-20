@@ -1,6 +1,6 @@
 # MINI-PROJECT
 # IMAGE STEGANOGRAPHY
-# INTODUCTION:
+## INTODUCTION:
 Steganography is the art and science of invisible communication. This is an accomplished through hiding information in other information, thus hiding the existence of the communicated information. the word steganography is derived from the Greek words “stego” meaning “cover” and “grafia” meaning “writing” defined it as “covered writing”. In image steganography the information is hidden exclusively in images.
 
 ### EXISTING SYSTEM
